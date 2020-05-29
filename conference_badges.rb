@@ -28,6 +28,7 @@ def printer(attendees)
  badges_array.each do |attendees_name| 
     puts attendees_name
   end
+  badges_array
   end
 
 

@@ -28,15 +28,6 @@ def printer(attendees)
  badges_array.each do |attendees_name| 
     puts attendees_name
   end
-  room_array.each do|room_assignment|
-end
-  puts room_assignment
-  badges_array.each do |attendees_name| 
-    puts attendees_name
-  en
-end
- puts room_assignment
-  
   end
 
 

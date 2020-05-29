@@ -29,6 +29,7 @@ def printer(attendees)
     puts attendees_name
  room_array.each do|room_assignment|
   puts room_assignment
-endend
+end
+end
   
 

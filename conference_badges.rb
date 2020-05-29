@@ -34,8 +34,7 @@ end
   en
 end
  puts room_assignment
-  badges_array.each do |attendees_name| 
-    puts attendees_name
+  
   end
 
 

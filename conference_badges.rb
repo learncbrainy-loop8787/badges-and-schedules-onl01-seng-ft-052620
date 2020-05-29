@@ -25,7 +25,7 @@ end
 def printer(attendees)
   binding.pry
   room_array = assign_rooms(attendees)
-  badges_array =
+  badges_array = 
 end
 
 

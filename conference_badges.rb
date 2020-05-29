@@ -24,7 +24,7 @@ end
 
 def printer(attendees)
   attendees.each do |name_string|
-    puts
+    puts 
 end
 end
 
